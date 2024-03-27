@@ -1,1 +1,1 @@
-Esse é um site que foi criado para mostrar algumas roupas, nele foi utilizado a linguagem do CSS e HTML, foi difícil na para alinhar as imagens, mas agora aprendi a como criar.
+Esse é um site que foi criado para mostrar algumas roupas, eu criei esse site no curso de HTML&CSS-Criação de sites no Senac em Ipatinga-MG, nele foi utilizado a linguagem do CSS e HTML, foi difícil na para alinhar as imagens, mas agora aprendi a como criar.
